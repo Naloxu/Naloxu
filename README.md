@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Narek (Naloxu), a self-driven developer exploring the edge of software.
+I'm Naloxu, a self-driven developer exploring the edge of software.
 
 I contribute to open-source, improving code, fixing bugs, and experimenting with new tools.
 
